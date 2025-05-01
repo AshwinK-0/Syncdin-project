@@ -1,2 +1,2 @@
 # Syncdin-project
-Converts CSV into CWR format 
+Converts CSV into CWR format through an interface using python
